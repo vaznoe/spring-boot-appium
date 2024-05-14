@@ -98,6 +98,6 @@ To generate and serve Allure reports, use the following command:
 - [Spring Boot 3 Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - [Java 11 Documentation](https://docs.oracle.com/en/java/javase/11/)
 - [Selenide Documentation](https://selenide.org/)
-- [Appium Documentation](http://appium.io/docs/en/about-appium/intro/)
+- [Appium Documentation](https://appium.io/docs/en/latest/)
 - [Maven Documentation](https://maven.apache.org/guides/index.html)
 - [Allure Report Documentation](https://docs.qameta.io/allure/)
