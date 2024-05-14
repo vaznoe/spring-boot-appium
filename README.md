@@ -12,6 +12,7 @@ testing framework for Android applications.
     - [Java 11](#java-11)
     - [Maven](#maven)
     - [Appium 2](#appium-2)
+    - [Allure](#allure)
 3. [Project Setup](#project-setup)
 4. [Running Tests](#running-tests)
 5. [Generating Allure Reports](#generating-allure-reports)
@@ -51,6 +52,13 @@ Verify the installation by running:
 ```bash
 appium -v
 ```
+
+### Allure
+
+```bash
+brew install allure
+```
+[Install or upgrade Allure Report](https://allurereport.org/docs/install/)
 
 ## Project Setup
 

@@ -2,6 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.allure/
 
 ### STS ###
 .apt_generated
@@ -17,6 +18,7 @@ target/
 *.iws
 *.iml
 *.ipr
+.DS_Store
 
 ### NetBeans ###
 /nbproject/private/
