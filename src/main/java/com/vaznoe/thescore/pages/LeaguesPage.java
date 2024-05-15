@@ -24,7 +24,7 @@ public class LeaguesPage extends BasePage {
         return this;
     }
 
-    @Step("Verify the 'Leagues' tab is selected")
+    @Step("Tap on 'Leagues' tab")
     public LeaguePage selectLeagues(String name) {
         $$(LEAGUES_NAME).findBy(text(name)).click();
         return new LeaguePage();
